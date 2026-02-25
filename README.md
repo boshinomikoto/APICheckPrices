@@ -27,5 +27,5 @@ g++ -std=c++17 -I"D:\APIBINANCE\apiBinanceBot\apiBinanceBot\include" - way to in
 ./apiBinanceBot
 ```
 
-![Program](imag/164135.png)
+![Program](img/164135.png)
 
