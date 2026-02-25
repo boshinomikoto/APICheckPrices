@@ -1,0 +1,26 @@
+{
+    "AED": {
+        "bank": "USD",
+        "value": 3.6725
+    },
+    "EUR": {
+        "bank": "USD",
+        "value": 0.8492
+    },
+    "JPY": {
+        "bank": "USD",
+        "value": 155.742
+    },
+    "PLN": {
+        "bank": "USD",
+        "value": 3.5808
+    },
+    "TRY": {
+        "bank": "USD",
+        "value": 43.8615
+    },
+    "UAH": {
+        "bank": "USD",
+        "value": 43.2865
+    }
+}
